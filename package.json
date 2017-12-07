@@ -1,25 +1,16 @@
 {
-  "name": "gittest",
+  "name": "confusion",
   "version": "1.0.0",
-  "description": "This is a test directory to learn npm and node",
+  "description": "This is a website for Ristorante Con Fusion",
   "main": "index.html",
   "scripts": {
-    "start": "npm rum lite",
+    "start": "npm run lite",
     "test": "echo \"Error: no test specified\" && exit 1",
     "lite": "lite-server"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/mnavandar/git.git"
-  },
-  "author": "Madhur Navandar",
+  "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/mnavandar/git/issues"
-  },
-  "homepage": "https://github.com/mnavandar/git#readme",
   "devDependencies": {
-    "lite-server": "^2.3.0"
-  },
-  "dependencies": {}
+    "lite-server": "^2.2.2"
+  }
 }
